@@ -1,0 +1,32 @@
+{
+  "name": "cryptopay-landing",
+  "description": "CryptoPay Landing Contest for Web Developers End: 12.10.2023, 20:00 (UTC) Task: Develop the layout of a one-page website in full compliance with the submitted design",
+  "author": {
+    "email": "fadeev_nd@mail.ru",
+    "name": "Nik Gariel",
+    "url": "https://github.com/NikGariel"
+  },
+  "bugs": {
+    "email": "fadeev_nd@mail.ru",
+    "url": "https://github.com/NikGariel/cryptopay-landing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NikGariel/cryptopay-landing/issues"
+  },
+  "homepage": "https://github.com/NikGariel/cryptopay-landing#readme",
+  "license" : "SEE LICENSE IN LICENSE.md",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^3.2.0",
+    "sharp": "^0.32.6"
+  }
+}
