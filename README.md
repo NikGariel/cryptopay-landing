@@ -3,8 +3,7 @@ by [NikGariel](https://github.com/NikGariel/)
 
 🚀 Welcome to the cryptopay-landing repository! This is the official repository for my entry in the Web Developers Challenge. In this contest, I'll be developing a one-page website layout in accordance with the provided design, using the performance-optimized Astro 3 framework. This repository will house all the project files, including the Astro 3 code, HTML, CSS, and JavaScript, as well as any other related assets.
 
-[![Open in Cloudflare Pages](https://raw.githubusercontent.com/NikGariel/cryptopay-landing/main/cloudflarePagesButton.svg)](https://cryptopay-landing.pages.dev/)
-
+<a href="https://cryptopay-landing.pages.dev/"><img src="https://raw.githubusercontent.com/NikGariel/cryptopay-landing/main/cloudflarePagesButton.svg" width="129"></a>
 
 > **Are you a representative of CryptoPay?** Then read the [license agreement](https://github.com/NikGariel/cryptopay-landing/blob/main/LICENSE.md).
 
