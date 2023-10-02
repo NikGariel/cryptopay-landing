@@ -8,7 +8,7 @@ by [NikGariel](https://github.com/NikGariel/)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics](https://github.com/NikGariel/cryptopay-landing/cover.webp)
+![just-the-basics](https://raw.githubusercontent.com/NikGariel/cryptopay-landing/main/cover.webp)
 
 ## 🚀 Project Structure
 
